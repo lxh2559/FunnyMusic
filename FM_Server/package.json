@@ -1,0 +1,15 @@
+{
+  "name": "fm_server",
+  "version": "1.0.0",
+  "description": "FunnyMusic Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lxh2559",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "koa": "^2.13.4"
+  }
+}
